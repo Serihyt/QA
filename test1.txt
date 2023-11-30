@@ -1,0 +1,11 @@
+git status 
+git add.. 
+git clone 
+git diff
+
+i made some changes 
+1st branch 
+i am adding something here 
+i am adding more in it 
+i am adding more into my file 
+add 123
